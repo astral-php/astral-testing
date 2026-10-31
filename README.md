@@ -2,8 +2,8 @@
 
 Helpers de test pour applications [Astral](https://github.com/astral-php) — HTTP smokes, factories, fakes (events / mails / logs).
 
-[![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?logo=php&logoColor=white)](https://www.php.net)
-[![Version](https://img.shields.io/badge/version-0.1.0-blue)](./CHANGELOG.md)
+[![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?logo=php&logoColor=white)](https://www.php.net)
+[![Version](https://img.shields.io/badge/version-0.2.0-blue)](./CHANGELOG.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Version 0.1.0** — HttpTestCase, factories, fakes (events / mails / logs).  
